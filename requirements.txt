@@ -1,0 +1,17 @@
+streamlit
+streamlit-folium
+folium
+earthengine-api
+pandas
+numpy
+rasterio
+matplotlib
+seaborn
+pillow
+scikit-learn
+requests
+pathlib
+tensorflow
+torch
+torchvision
+torchaudio

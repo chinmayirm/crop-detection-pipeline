@@ -4,7 +4,7 @@ This project is an *informal* and exploratory implementation for detecting crop 
 
 This is part of an informal, curiosity-driven attempt by our team to test whether meaningful deep learning models can be trained for crop detection using minimal supervision and synthetic labels. While not production-grade, it captures the potential and process of building such a pipeline from scratch.
 
-This was an exploration project done for my internship at ISRO. This work can form the basis for various applications like yield precition of different crops in an area, growth analysis, yearly output comparision etc. benefition for Government use. 
+This was an exploration project done for my internship at ISRO. This work can form the basis for various applications like yield precition of different crops in an area, growth analysis, yearly output comparision etc. that are benefitial for Government use. 
 
 ---
 

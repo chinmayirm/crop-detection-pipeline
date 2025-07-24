@@ -8,7 +8,7 @@ This was an exploration project done for my internship at ISRO. This work can fo
 
 ---
 
-## 🛰️ Project Overview
+## Project Overview
 
 The pipeline performs the following:
 
@@ -21,7 +21,7 @@ The pipeline performs the following:
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 | File | Description |
 |------|-------------|
@@ -32,7 +32,7 @@ The pipeline performs the following:
 
 ---
 
-## 🔬 Datasets Used
+## Datasets Used
 
 - **Imagery**: Sentinel-2 time-series exported from **Google Earth Engine**
 - **Metadata**: CSV with timestamps aligned to bands in the TIFF
@@ -40,7 +40,7 @@ The pipeline performs the following:
 
 ---
 
-## 🧠 Models Trained
+## Models Trained
 
 Two deep learning classifiers are trained on extracted spectral features:
 
@@ -60,7 +60,7 @@ Two deep learning classifiers are trained on extracted spectral features:
 
 ---
 
-## 🧪 Vegetation Indices Computed
+## Vegetation Indices Computed
 
 - NDVI (Normalized Difference Vegetation Index)
 - NDRE (Red Edge NDVI)
@@ -73,7 +73,7 @@ Two deep learning classifiers are trained on extracted spectral features:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python 3.x
 - NumPy, Pandas
@@ -86,7 +86,7 @@ Two deep learning classifiers are trained on extracted spectral features:
 
 ---
 
-## 📈 Example Output
+## Example Output
 <img width="1989" height="1589" alt="image" src="https://github.com/user-attachments/assets/55c8587a-6848-4554-a04a-0035b896ecbb" />
 
 
@@ -99,7 +99,7 @@ Two deep learning classifiers are trained on extracted spectral features:
 
 ---
 
-## 🗃️ Outputs
+##  Outputs
 
 | File | Description |
 |------|-------------|
@@ -113,7 +113,7 @@ Two deep learning classifiers are trained on extracted spectral features:
 
 ---
 
-## 🧭 Introspective Value
+## Introspective Value
 
 This project offers a way to understand:
 
@@ -126,7 +126,7 @@ This project offers a way to understand:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project was created for *experimental and educational purposes* only. No claims are made about its performance in real-world agricultural settings without proper validation using ground truth data. However, the model provides an accuracy of 95%.
 
